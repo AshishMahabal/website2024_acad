@@ -24,7 +24,7 @@ organizations:
   - name: Caltech Pasadena USA
     url: https://www.caltech.edu
   - name: IUCAA, Pune, India
-    url = https://iucaa.in/en/
+    url: https://iucaa.in/en/
 
 
 # Short bio (displayed in user profile at end of posts)
