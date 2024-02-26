@@ -1,13 +1,13 @@
 ---
-# Display name
-title: 吳健雄
+## Display name
+title: Ashish Mahabal
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: आशिष महाबळ
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ashish
+last_name: Mahabal
 
 # Status emoji
 status:
