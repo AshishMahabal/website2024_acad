@@ -111,7 +111,7 @@ social:
     link: https://github.com/AshishMahabal
   - icon: linkedin
     icon_pack: fab
-    link: hhttps://www.linkedin.com/in/ashish-mahabal-7927631/
+    link: https://www.linkedin.com/in/ashish-mahabal-7927631/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
