@@ -1,0 +1,324 @@
+---
+title: "LSST: from Science Drivers to Reference Design and Anticipated Data   Products"
+date: 2018-05-23T19:18:23Z
+authors:
+- Željko Ivezić
+- Steven M. Kahn
+- J. Anthony Tyson
+- Bob Abel
+- Emily Acosta
+- Robyn Allsman
+- David Alonso
+- Yusra AlSayyad
+- Scott F. Anderson
+- John Andrew
+- James Roger P. Angel
+- George Z. Angeli
+- Reza Ansari
+- Pierre Antilogus
+- Constanza Araujo
+- Robert Armstrong
+- Kirk T. Arndt
+- Pierre Astier
+- Éric Aubourg
+- Nicole Auza
+- Tim S. Axelrod
+- Deborah J. Bard
+- Jeff D. Barr
+- Aurelian Barrau
+- James G. Bartlett
+- Amanda E. Bauer
+- Brian J. Bauman
+- Sylvain Baumont
+- Andrew C. Becker
+- Jacek Becla
+- Cristina Beldica
+- Steve Bellavia
+- Federica B. Bianco
+- Rahul Biswas
+- Guillaume Blanc
+- Jonathan Blazek
+- Roger D. Blandford
+- Josh S. Bloom
+- Joanne Bogart
+- Tim W. Bond
+- Anders W. Borgland
+- Kirk Borne
+- James F. Bosch
+- Dominique Boutigny
+- Craig A. Brackett
+- Andrew Bradshaw
+- William Nielsen Brandt
+- Michael E. Brown
+- James S. Bullock
+- Patricia Burchat
+- David L. Burke
+- Gianpietro Cagnoli
+- Daniel Calabrese
+- Shawn Callahan
+- Alice L. Callen
+- Srinivasan Chandrasekharan
+- Glenaver Charles-Emerson
+- Steve Chesley
+- Elliott C. Cheu
+- Hsin-Fang Chiang
+- James Chiang
+- Carol Chirino
+- Derek Chow
+- David R. Ciardi
+- Charles F. Claver
+- Johann Cohen-Tanugi
+- Joseph J. Cockrum
+- Rebecca Coles
+- Andrew J. Connolly
+- Kem H. Cook
+- Asantha Cooray
+- Kevin R. Covey
+- Chris Cribbs
+- Wei Cui
+- Roc Cutri
+- Philip N. Daly
+- Scott F. Daniel
+- Felipe Daruich
+- Guillaume Daubard
+- Greg Daues
+- William Dawson
+- Francisco Delgado
+- Alfred Dellapenna
+- Robert de Peyster
+- Miguel de Val-Borro
+- Seth W. Digel
+- Peter Doherty
+- Richard Dubois
+- Gregory P. Dubois-Felsmann
+- Josef Durech
+- Frossie Economou
+- Michael Eracleous
+- Henry Ferguson
+- Enrique Figueroa
+- Merlin Fisher-Levine
+- Warren Focke
+- Michael D. Foss
+- James Frank
+- Michael D. Freemon
+- Emmanuel Gangler
+- Eric Gawiser
+- John C. Geary
+- Perry Gee
+- Marla Geha
+- Charles J. B. Gessner
+- Robert R. Gibson
+- D. Kirk Gilmore
+- Thomas Glanzman
+- William Glick
+- Tatiana Goldina
+- Daniel A. Goldstein
+- Iain Goodenow
+- Melissa L. Graham
+- William J. Gressler
+- Philippe Gris
+- Leanne P. Guy
+- Augustin Guyonnet
+- Gunther Haller
+- Ron Harris
+- Patrick A. Hascall
+- Justine Haupt
+- Fabio Hernandez
+- Sven Herrmann
+- Edward Hileman
+- Joshua Hoblitt
+- John A. Hodgson
+- Craig Hogan
+- Dajun Huang
+- Michael E. Huffer
+- Patrick Ingraham
+- Walter R. Innes
+- Suzanne H. Jacoby
+- Bhuvnesh Jain
+- Fabrice Jammes
+- James Jee
+- Tim Jenness
+- Garrett Jernigan
+- Darko Jevremović
+- Kenneth Johns
+- Anthony S. Johnson
+- Margaret W. G. Johnson
+- R. Lynne Jones
+- Claire Juramy-Gilles
+- Mario Jurić
+- Jason S. Kalirai
+- Nitya J. Kallivayalil
+- Bryce Kalmbach
+- Jeffrey P. Kantor
+- Pierre Karst
+- Mansi M. Kasliwal
+- Heather Kelly
+- Richard Kessler
+- Veronica Kinnison
+- David Kirkby
+- Lloyd Knox
+- Ivan V. Kotov
+- Victor L. Krabbendam
+- K. Simon Krughoff
+- Petr Kubánek
+- John Kuczewski
+- Shri Kulkarni
+- John Ku
+- Nadine R. Kurita
+- Craig S. Lage
+- Ron Lambert
+- Travis Lange
+- J. Brian Langton
+- Laurent Le Guillou
+- Deborah Levine
+- Ming Liang
+- Kian-Tat Lim
+- Chris J. Lintott
+- Kevin E. Long
+- Margaux Lopez
+- Paul J. Lotz
+- Robert H. Lupton
+- Nate B. Lust
+- Lauren A. MacArthur
+- Ashish Mahabal
+- Rachel Mandelbaum
+- Darren S. Marsh
+- Philip J. Marshall
+- Stuart Marshall
+- Morgan May
+- Robert McKercher
+- Michelle McQueen
+- Joshua Meyers
+- Myriam Migliore
+- Michelle Miller
+- David J. Mills
+- Connor Miraval
+- Joachim Moeyens
+- David G. Monet
+- Marc Moniez
+- Serge Monkewitz
+- Christopher Montgomery
+- Fritz Mueller
+- Gary P. Muller
+- Freddy Muñoz Arancibia
+- Douglas R. Neill
+- Scott P. Newbry
+- Jean-Yves Nief
+- Andrei Nomerotski
+- Martin Nordby
+- Paul O'Connor
+- John Oliver
+- Scot S. Olivier
+- Knut Olsen
+- William O'Mullane
+- Sandra Ortiz
+- Shawn Osier
+- Russell E. Owen
+- Reynald Pain
+- Paul E. Palecek
+- John K. Parejko
+- James B. Parsons
+- Nathan M. Pease
+- J. Matt Peterson
+- John R. Peterson
+- Donald L. Petravick
+- M. E. Libby Petrick
+- Cathy E. Petry
+- Francesco Pierfederici
+- Stephen Pietrowicz
+- Rob Pike
+- Philip A. Pinto
+- Raymond Plante
+- Stephen Plate
+- Paul A. Price
+- Michael Prouza
+- Veljko Radeka
+- Jayadev Rajagopal
+- Andrew P. Rasmussen
+- Nicolas Regnault
+- Kevin A. Reil
+- David J. Reiss
+- Michael A. Reuter
+- Stephen T. Ridgway
+- Vincent J. Riot
+- Steve Ritz
+- Sean Robinson
+- William Roby
+- Aaron Roodman
+- Wayne Rosing
+- Cecille Roucelle
+- Matthew R. Rumore
+- Stefano Russo
+- Abhijit Saha
+- Benoit Sassolas
+- Terry L. Schalk
+- Pim Schellart
+- Rafe H. Schindler
+- Samuel Schmidt
+- Donald P. Schneider
+- Michael D. Schneider
+- William Schoening
+- German Schumacher
+- Megan E. Schwamb
+- Jacques Sebag
+- Brian Selvy
+- Glenn H. Sembroski
+- Lynn G. Seppala
+- Andrew Serio
+- Eduardo Serrano
+- Richard A. Shaw
+- Ian Shipsey
+- Jonathan Sick
+- Nicole Silvestri
+- Colin T. Slater
+- J. Allyn Smith
+- R. Chris Smith
+- Shahram Sobhani
+- Christine Soldahl
+- Lisa Storrie-Lombardi
+- Edward Stover
+- Michael A. Strauss
+- Rachel A. Street
+- Christopher W. Stubbs
+- Ian S. Sullivan
+- Donald Sweeney
+- John D. Swinbank
+- Alexander Szalay
+- Peter Takacs
+- Stephen A. Tether
+- Jon J. Thaler
+- John Gregg Thayer
+- Sandrine Thomas
+- Vaikunth Thukral
+- Jeffrey Tice
+- David E. Trilling
+- Max Turri
+- Richard Van Berg
+- Daniel Vanden Berk
+- Kurt Vetter
+- Francoise Virieux
+- Tomislav Vucina
+- William Wahl
+- Lucianne Walkowicz
+- Brian Walsh
+- Christopher W. Walter
+- Daniel L. Wang
+- Shin-Yawn Wang
+- Michael Warner
+- Oliver Wiecha
+- Beth Willman
+- Scott E. Winters
+- David Wittman
+- Sidney C. Wolff
+- W. Michael Wood-Vasey
+- Xiuqin Wu
+- Bo Xin
+- Peter Yoachim
+- Hu Zhan
+abstract: "(Abridged) We describe here the most ambitious survey currently planned in the optical, the Large Synoptic Survey Telescope (LSST). A vast array of science will be enabled by a single wide-deep-fast sky survey, and LSST will have unique survey capability in the faint time domain. The LSST design is driven by four main science themes: probing dark energy and dark matter, taking an inventory of the Solar System, exploring the transient optical sky, and mapping the Milky Way. LSST will be a wide-field ground-based system sited at Cerro Pach'{o}n in northern Chile. The telescope will have an 8.4 m (6.5 m effective) primary mirror, a 9.6 deg$^2$ field of view, and a 3.2 Gigapixel camera. The standard observing sequence will consist of pairs of 15-second exposures in a given field, with two such visits in each pointing in a given night. With these repeats, the LSST system is capable of imaging about 10,000 square degrees of sky in a single filter in three nights. The typical 5$sigma$ point-source depth in a single visit in $r$ will be $sim 24.5$ (AB). The project is in the construction phase and will begin regular survey operations by 2022. The survey area will be contained within 30,000 deg$^2$ with $delta<+34.5^circ$, and will be imaged multiple times in six bands, $ugrizy$, covering the wavelength range 320--1050 nm. About 90% of the observing time will be devoted to a deep-wide-fast survey mode which will uniformly observe a 18,000 deg$^2$ region about 800 times (summed over all six bands) during the anticipated 10 years of operations, and yield a coadded map to $rsim27.5$. The remaining 10% of the observing time will be allocated to projects such as a Very Deep and Fast time domain survey. The goal is to make LSST data products, including a relational database of about 32 trillion observations of 40 billion objects, available to the public and scientists around the world."
+featured: true
+tags:
+math: true
+publication_types: ["2"]
+---
+http://arxiv.org/abs/0805.2366v5

@@ -1,0 +1,127 @@
+---
+title: "The Zwicky Transient Facility: System Overview, Performance, and First   Results"
+date: 2019-02-05T21:59:02Z
+authors:
+- Eric C. Bellm
+- Shrinivas R. Kulkarni
+- Matthew J. Graham
+- Richard Dekany
+- Roger M. Smith
+- Reed Riddle
+- Frank J. Masci
+- George Helou
+- Thomas A. Prince
+- Scott M. Adams
+- C. Barbarino
+- Tom Barlow
+- James Bauer
+- Ron Beck
+- Justin Belicki
+- Rahul Biswas
+- Nadejda Blagorodnova
+- Dennis Bodewits
+- Bryce Bolin
+- Valery Brinnel
+- Tim Brooke
+- Brian Bue
+- Mattia Bulla
+- Rick Burruss
+- S. Bradley Cenko
+- Chan-Kao Chang
+- Andrew Connolly
+- Michael Coughlin
+- John Cromer
+- Virginia Cunningham
+- Kishalay De
+- Alex Delacroix
+- Vandana Desai
+- Dmitry A. Duev
+- Gwendolyn Eadie
+- Tony L. Farnham
+- Michael Feeney
+- Ulrich Feindt
+- David Flynn
+- Anna Franckowiak
+- S. Frederick
+- C. Fremling
+- Avishay Gal-Yam
+- Suvi Gezari
+- Matteo Giomi
+- Daniel A. Goldstein
+- V. Zach Golkhou
+- Ariel Goobar
+- Steven Groom
+- Eugean Hacopians
+- David Hale
+- John Henning
+- Anna Y. Q. Ho
+- David Hover
+- Justin Howell
+- Tiara Hung
+- Daniela Huppenkothen
+- David Imel
+- Wing-Huen Ip
+- Željko Ivezić
+- Edward Jackson
+- Lynne Jones
+- Mario Juric
+- Mansi M. Kasliwal
+- S. Kaspi
+- Stephen Kaye
+- Michael S. P. Kelley
+- Marek Kowalski
+- Emily Kramer
+- Thomas Kupfer
+- Walter Landry
+- Russ R. Laher
+- Chien-De Lee
+- Hsing Wen Lin
+- Zhong-Yi Lin
+- Ragnhild Lunnan
+- Matteo Giomi
+- Ashish Mahabal
+- Peter Mao
+- Adam A. Miller
+- Serge Monkewitz
+- Patrick Murphy
+- Chow-Choong Ngeow
+- Jakob Nordin
+- Peter Nugent
+- Eran Ofek
+- Maria T. Patterson
+- Bryan Penprase
+- Michael Porter
+- Ludwig Rauch
+- Umaa Rebbapragada
+- Dan Reiley
+- Mickael Rigault
+- Hector Rodriguez
+- Jan van Roestel
+- Ben Rusholme
+- Jakob van Santen
+- S. Schulze
+- David L. Shupe
+- Leo P. Singer
+- Maayane T. Soumagnac
+- Robert Stein
+- Jason Surace
+- Jesper Sollerman
+- Paula Szkody
+- F. Taddia
+- Scott Terek
+- Angela Van Sistine
+- Sjoert van Velzen
+- W. Thomas Vestrand
+- Richard Walters
+- Charlotte Ward
+- Quan-Zhi Ye
+- Po-Chieh Yu
+- Lin Yan
+- Jeffry Zolkower
+abstract: "The Zwicky Transient Facility (ZTF) is a new optical time-domain survey that uses the Palomar 48-inch Schmidt telescope. A custom-built wide-field camera provides a 47 deg$^2$ field of view and 8 second readout time, yielding more than an order of magnitude improvement in survey speed relative to its predecessor survey, the Palomar Transient Factory (PTF). We describe the design and implementation of the camera and observing system. The ZTF data system at the Infrared Processing and Analysis Center provides near-real-time reduction to identify moving and varying objects. We outline the analysis pipelines, data products, and associated archive. Finally, we present on-sky performance analysis and first scientific results from commissioning and the early survey. ZTF's public alert stream will serve as a useful precursor for that of the Large Synoptic Survey Telescope."
+featured: true
+tags:
+math: true
+publication_types: ["2"]
+---
+http://arxiv.org/abs/1902.01932v1

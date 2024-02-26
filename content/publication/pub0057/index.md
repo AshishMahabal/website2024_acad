@@ -1,0 +1,99 @@
+---
+title: "Modeling of the HERMES J105751.1+573027 submillimeter source lensed by a   dark matter dominated foreground group of galaxies"
+date: 2011-04-20T20:00:07Z
+authors:
+- R. Gavazzi
+- A. Cooray
+- A. Conley
+- J. E. Aguirre
+- A. Amblard
+- R. Auld
+- A. Beelen
+- A. Blain
+- R. Blundell
+- J. Bock
+- C. M. Bradford
+- C. Bridge
+- D. Brisbin
+- D. Burgarella
+- P. Chanial
+- E. Chapin
+- N. Christopher
+- D. L. Clements
+- P. Cox
+- S. G. Djorgovski
+- C. D. Dowell
+- S. Eales
+- L. Earle
+- T. P. Ellsworth-Bowers
+- D. Farrah
+- A. Franceschini
+- H. Fu
+- J. Glenn
+- E. A. González Solares
+- M. Griffin
+- M. A. Gurwell
+- M. Halpern
+- E. Ibar
+- R. J. Ivison
+- M. Jarvis
+- J. Kamenetzky
+- S. Kim
+- M. Krips
+- L. Levenson
+- R. Lupu
+- A. Mahabal
+- P. D. Maloney
+- C. Maraston
+- L. Marchetti
+- G. Marsden
+- H. Matsuhara
+- A. M. J. Mortier
+- E. Murphy
+- B. J. Naylor
+- R. Neri
+- H. T. Nguyen
+- S. J. Oliver
+- A. Omont
+- M. J. Page
+- A. Papageorgiou
+- C. P. Pearson
+- I. Pérez-Fournon
+- M. Pohlen
+- N. Rangwala
+- J. I. Rawlings
+- G. Raymond
+- D. Riechers
+- G. Rodighiero
+- I. G. Roseboom
+- M. Rowan-Robinson
+- B. Schulz
+- Douglas Scott
+- K. S. Scott
+- P. Serra
+- N. Seymour
+- D. L. Shupe
+- A. J. Smith
+- M. Symeonidis
+- K. E. Tugwell
+- M. Vaccari
+- E. Valiante
+- I. Valtchanov
+- A. Verma
+- J. D. Vieira
+- L. Vigroux
+- L. Wang
+- J. Wardlow
+- D. Wiebe
+- G. Wright
+- C. K. Xu
+- G. Zeimann
+- M. Zemcov
+- J. Zmuidzinas
+abstract: "We present the results of a gravitational lensing analysis of the bright $zs=2.957$ sub-millimeter galaxy (SMG), HERMES J105751.1+573027 found in {it Herschel}/SPIRE Science Demonstration Phase data from the Herschel Multi-tiered Extragalactic Survey (HerMES) project. The high resolution imaging available in optical and Near-IR channels, along with CO emission obtained with the Plateau de Bure Interferometer, allow us to precisely estimate the intrinsic source extension and hence estimate the total lensing magnification to be $mu=10.9pm 0.7$. We measure the half-light radius $R_{rm eff}$ of the source in the rest-frame Near-UV and $V$ bands that characterize the unobscured light coming from stars and find $R_{rm eff,*}= [2.0 pm 0.1]$ kpc, in good agreement with recent studies on the Submillimeter Galaxy population. This lens model is also used to estimate the size of the gas distribution ($R_{rm eff,gas}= [1.1pm0.5]$) kpc by mapping back in the source plane the CO (J=5-4) transition line emission. The lens modeling yields a relatively large Einstein radius $R_{rm Ein}= 4farcs10 pm 0farcs02$, corresponding to a deflector velocity dispersion of [$483pm 16] ,kms$. This shows that HERMES J105751.1+573027 is lensed by a {it galaxy group-size} dark matter halo at redshift $zlsim 0.6$. The projected dark matter contribution largely dominates the mass budget within the Einstein radius with $f_{rm dm}(<R_{rm Ein})sim 80%$. This fraction reduces to $f_{rm dm}(<R_{rm eff,G1}simeq 4.5kpc)sim 47%$ within the effective radius of the main deflecting galaxy of stellar mass $M_{rm *,G1}=[8.5pm 1.6] times 10^{11}msun$. At this smaller scale the dark matter fraction is consistent with results already found for massive lensing ellipticals at $zsim0.2$ from the SLACS survey."
+featured: true
+tags:
+math: true
+publication_types: ["2"]
+---
+http://arxiv.org/abs/1104.4119v1

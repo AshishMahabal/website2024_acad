@@ -1,0 +1,122 @@
+---
+title: "Gaia Photometric Science Alerts"
+date: 2021-06-02T18:00:49Z
+authors:
+- S. T. Hodgkin
+- D. L. Harrison
+- E. Breedt
+- T. Wevers
+- G. Rixon
+- A. Delgado
+- A. Yoldas
+- Z. Kostrzewa-Rutkowska
+- Ł. Wyrzykowski
+- M. van Leeuwen
+- N. Blagorodnova
+- H. Campbell
+- D. Eappachen
+- M. Fraser
+- N. Ihanec
+- S. E. Koposov
+- K. Kruszyńska
+- G. Marton
+- K. A. Rybicki
+- A. G. A. Brown
+- P. W. Burgess
+- G. Busso
+- S. Cowell
+- F. De Angeli
+- C. Diener
+- D. W. Evans
+- G. Gilmore
+- G. Holland
+- P. G. Jonker
+- F. van Leeuwen
+- F. Mignard
+- P. J. Osborne
+- J. Portell
+- T. Prusti
+- P. J. Richards
+- M. Riello
+- G. M. Seabroke
+- N. A. Walton
+- Péter Ábrahám
+- G. Altavilla
+- S. G. Baker
+- U. Bastian
+- P. O'Brien
+- J. de Bruijne
+- T. Butterley
+- J. M. Carrasco
+- J. Castañeda
+- J. S. Clark
+- G. Clementini
+- C. M. Copperwheat
+- M. Cropper
+- G. Damljanovic
+- M. Davidson
+- C. J. Davis
+- M. Dennefeld
+- V. S. Dhillon
+- C. Dolding
+- M. Dominik
+- P. Esquej
+- L. Eyer
+- C. Fabricius
+- M. Fridman
+- D. Froebrich
+- N. Garralda
+- A. Gomboc
+- J. J. González-Vidal
+- R. Guerra
+- N. C. Hambly
+- L. K. Hardy
+- B. Holl
+- A. Hourihane
+- J. Japelj
+- D. A. Kann
+- C. Kiss
+- C. Knigge
+- U. Kolb
+- S. Komossa
+- Á. Kóspál
+- G. Kovács
+- M. Kun
+- G. Leto
+- F. Lewis
+- S. P. Littlefair
+- A. A. Mahabal
+- C. G. Mundell
+- Z. Nagy
+- D. Padeletti
+- L. Palaversa
+- A. Pigulski
+- M. L. Pretorius
+- W. van Reeven
+- V. A. R. M. Ribeiro
+- M. Roelens
+- N. Rowell
+- N. Schartel
+- A. Scholz
+- A. Schwope
+- B. M. Sipőcz
+- S. J. Smartt
+- M. D. Smith
+- I. Serraller
+- D. Steeghs
+- M. Sullivan
+- L. Szabados
+- E. Szegedi-Elek
+- P. Tisserand
+- L. Tomasella
+- S. van Velzen
+- P. A Whitelock
+- R. W. Wilson
+- D. R. Young
+abstract: "Since July 2014, the Gaia mission has been engaged in a high-spatial-resolution, time-resolved, precise, accurate astrometric, and photometric survey of the entire sky.   Aims: We present the Gaia Science Alerts project, which has been in operation since 1 June 2016. We describe the system which has been developed to enable the discovery and publication of transient photometric events as seen by Gaia.   Methods: We outline the data handling, timings, and performances, and we describe the transient detection algorithms and filtering procedures needed to manage the high false alarm rate. We identify two classes of events: (1) sources which are new to Gaia and (2) Gaia sources which have undergone a significant brightening or fading. Validation of the Gaia transit astrometry and photometry was performed, followed by testing of the source environment to minimise contamination from Solar System objects, bright stars, and fainter near-neighbours.   Results: We show that the Gaia Science Alerts project suffers from very low contamination, that is there are very few false-positives. We find that the external completeness for supernovae, $C_E=0.46$, is dominated by the Gaia scanning law and the requirement of detections from both fields-of-view. Where we have two or more scans the internal completeness is $C_I=0.79$ at 3 arcsec or larger from the centres of galaxies, but it drops closer in, especially within 1 arcsec.   Conclusions: The per-transit photometry for Gaia transients is precise to 1 per cent at $G=13$, and 3 per cent at $G=19$. The per-transit astrometry is accurate to 55 milliarcseconds when compared to Gaia DR2. The Gaia Science Alerts project is one of the most homogeneous and productive transient surveys in operation, and it is the only survey which covers the whole sky at high spatial resolution (subarcsecond), including the Galactic plane and bulge."
+featured: true
+tags:
+math: true
+publication_types: ["2"]
+---
+http://arxiv.org/abs/2106.01394v1

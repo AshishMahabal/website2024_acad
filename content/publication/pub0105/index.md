@@ -1,0 +1,117 @@
+---
+title: "Gamma rays from the quasar PKS 1441+25: story of an escape"
+date: 2015-12-14T18:00:00Z
+authors:
+- A. U. Abeysekara
+- S. Archambault
+- A. Archer
+- T. Aune
+- A. Barnacka
+- W. Benbow
+- R. Bird
+- J. Biteau
+- J. H. Buckley
+- V. Bugaev
+- J. V Cardenzana
+- M. Cerruti
+- X. Chen
+- J. L. Christiansen
+- L. Ciupik
+- M. P. Connolly
+- P. Coppi
+- W. Cui
+- H. J. Dickinson
+- J. Dumm
+- J. D. Eisch
+- M. Errando
+- A. Falcone
+- Q. Feng
+- J. P. Finley
+- H. Fleischhack
+- A. Flinders
+- P. Fortin
+- L. Fortson
+- A. Furniss
+- G. H. Gillanders
+- S. Griffin
+- J. Grube
+- G. Gyuk
+- M. Hütten
+- N. Håkansson
+- D. Hanna
+- J. Holder
+- T. B. Humensky
+- C. A. Johnson
+- P. Kaaret
+- P. Kar
+- N. Kelley-Hoskins
+- Y. Khassen
+- D. Kieda
+- M. Krause
+- F. Krennrich
+- S. Kumar
+- M. J. Lang
+- G. Maier
+- S. McArthur
+- A. McCann
+- K. Meagher
+- P. Moriarty
+- R. Mukherjee
+- D. Nieto
+- A. O'Faoláin de Bhróithe
+- R. A. Ong
+- A. N. Otte
+- N. Park
+- J. S. Perkins
+- A. Petrashyk
+- M. Pohl
+- A. Popkow
+- E. Pueschel
+- J. Quinn
+- K. Ragan
+- G. Ratliff
+- P. T. Reynolds
+- G. T. Richards
+- E. Roache
+- J. Rousselle
+- M. Santander
+- G. H. Sembroski
+- K. Shahinyan
+- A. W. Smith
+- D. Staszak
+- I. Telezhinsky
+- N. W. Todd
+- J. V. Tucci
+- J. Tyler
+- V. V. Vassiliev
+- S. Vincent
+- S. P. Wakely
+- O. M. Weiner
+- A. Weinstein
+- A. Wilhelm
+- D. A. Williams
+- B. Zitzer
+- P. S. Smith
+- T. W. -S. Holoien
+- J. L. Prieto
+- C. S. Kochanek
+- K. Z. Stanek
+- B. Shappee
+- T. Hovatta
+- W. Max-Moerbeck
+- T. J. Pearson
+- R. A. Reeves
+- J. L. Richards
+- A. C. S. Readhead
+- G. M. Madejski
+- S. G. Djorgovski
+- A. J. Drake
+- M. J. Graham
+- A. Mahabal
+abstract: "Outbursts from gamma-ray quasars provide insights on the relativistic jets of active galactic nuclei and constraints on the diffuse radiation fields that fill the Universe. The detection of significant emission above 100 GeV from a distant quasar would show that some of the radiated gamma rays escape pair-production interactions with low-energy photons, be it the extragalactic background light (EBL), or the radiation near the supermassive black hole lying at the jet's base. VERITAS detected gamma-ray emission up to 200 GeV from PKS 1441+25 (z=0.939) during April 2015, a period of high activity across all wavelengths. This observation of PKS 1441+25 suggests that the emission region is located thousands of Schwarzschild radii away from the black hole. The gamma-ray detection also sets a stringent upper limit on the near-ultraviolet to near-infrared EBL intensity, suggesting that galaxy surveys have resolved most, if not all, of the sources of the EBL at these wavelengths."
+featured: true
+tags:
+math: true
+publication_types: ["2"]
+---
+http://arxiv.org/abs/1512.04434v1

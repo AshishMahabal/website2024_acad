@@ -1,0 +1,116 @@
+---
+title: "Science-Driven Optimization of the LSST Observing Strategy"
+date: 2017-08-14T10:09:27Z
+authors:
+- LSST Science Collaboration
+- Phil Marshall
+- Timo Anguita
+- Federica B. Bianco
+- Eric C. Bellm
+- Niel Brandt
+- Will Clarkson
+- Andy Connolly
+- Eric Gawiser
+- Zeljko Ivezic
+- Lynne Jones
+- Michelle Lochner
+- Michael B. Lund
+- Ashish Mahabal
+- David Nidever
+- Knut Olsen
+- Stephen Ridgway
+- Jason Rhodes
+- Ohad Shemmer
+- David Trilling
+- Kathy Vivas
+- Lucianne Walkowicz
+- Beth Willman
+- Peter Yoachim
+- Scott Anderson
+- Pierre Antilogus
+- Ruth Angus
+- Iair Arcavi
+- Humna Awan
+- Rahul Biswas
+- Keaton J. Bell
+- David Bennett
+- Chris Britt
+- Derek Buzasi
+- Dana I. Casetti-Dinescu
+- Laura Chomiuk
+- Chuck Claver
+- Kem Cook
+- James Davenport
+- Victor Debattista
+- Seth Digel
+- Zoheyr Doctor
+- R. E. Firth
+- Ryan Foley
+- Wen-fai Fong
+- Lluis Galbany
+- Mark Giampapa
+- John E. Gizis
+- Melissa L. Graham
+- Carl Grillmair
+- Phillipe Gris
+- Zoltan Haiman
+- Patrick Hartigan
+- Suzanne Hawley
+- Renee Hlozek
+- Saurabh W. Jha
+- C. Johns-Krull
+- Shashi Kanbur
+- Vassiliki Kalogera
+- Vinay Kashyap
+- Vishal Kasliwal
+- Richard Kessler
+- Alex Kim
+- Peter Kurczynski
+- Ofer Lahav
+- Michael C. Liu
+- Alex Malz
+- Raffaella Margutti
+- Tom Matheson
+- Jason D. McEwen
+- Peregrine McGehee
+- Soren Meibom
+- Josh Meyers
+- Dave Monet
+- Eric Neilsen
+- Jeffrey Newman
+- Matt O'Dowd
+- Hiranya V. Peiris
+- Matthew T. Penny
+- Christina Peters
+- Radoslaw Poleski
+- Kara Ponder
+- Gordon Richards
+- Jeonghee Rho
+- David Rubin
+- Samuel Schmidt
+- Robert L. Schuhmann
+- Avi Shporer
+- Colin Slater
+- Nathan Smith
+- Marcelles Soares-Santos
+- Keivan Stassun
+- Jay Strader
+- Michael Strauss
+- Rachel Street
+- Christopher Stubbs
+- Mark Sullivan
+- Paula Szkody
+- Virginia Trimble
+- Tony Tyson
+- Miguel de Val-Borro
+- Stefano Valenti
+- Robert Wagoner
+- W. Michael Wood-Vasey
+- Bevin Ashley Zauderer
+abstract: "The Large Synoptic Survey Telescope is designed to provide an unprecedented optical imaging dataset that will support investigations of our Solar System, Galaxy and Universe, across half the sky and over ten years of repeated observation. However, exactly how the LSST observations will be taken (the observing strategy or  arcseccadence arcsec) is not yet finalized. In this dynamically-evolving community white paper, we explore how the detailed performance of the anticipated science investigations is expected to depend on small changes to the LSST observing strategy. Using realistic simulations of the LSST schedule and observation properties, we design and compute diagnostic metrics and Figures of Merit that provide quantitative evaluations of different observing strategies, analyzing their impact on a wide range of proposed science projects. This is work in progress: we are using this white paper to communicate to each other the relative merits of the observing strategy choices that could be made, in an effort to maximize the scientific value of the survey. The investigation of some science cases leads to suggestions for new strategies that could be simulated and potentially adopted. Notably, we find motivation for exploring departures from a spatially uniform annual tiling of the sky: focusing instead on different parts of the survey area in different years in a  arcsecrolling cadence arcsec is likely to have significant benefits for a number of time domain and moving object astronomy projects. The communal assembly of a suite of quantified and homogeneously coded metrics is the vital first step towards an automated, systematic, science-based assessment of any given cadence simulation, that will enable the scheduling of the LSST to be as well-informed as possible."
+featured: true
+tags:
+math: true
+publication_types: ["2"]
+---
+http://arxiv.org/abs/1708.04058v1

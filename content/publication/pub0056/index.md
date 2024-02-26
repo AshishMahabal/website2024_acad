@@ -1,0 +1,102 @@
+---
+title: "Discovery of a Multiply-Lensed Submillimeter Galaxy in Early HerMES   Herschel/SPIRE Data"
+date: 2011-04-20T20:00:01Z
+authors:
+- A. Conley
+- A. Cooray
+- J. D. Vieira
+- E. A. González Solares
+- S. Kim
+- J. E. Aguirre
+- A. Amblard
+- R. Auld
+- A. J. Baker
+- A. Beelen
+- A. Blain
+- R. Blundell
+- J. Bock
+- C. M. Bradford
+- C. Bridge
+- D. Brisbin
+- D. Burgarella
+- J. M. Carpenter
+- P. Chanial
+- E. Chapin
+- N. Christopher
+- D. L. Clements
+- P. Cox
+- S. G. Djorgovski
+- C. D. Dowell
+- S. Eales
+- L. Earle
+- T. P. Ellsworth-Bowers
+- D. Farrah
+- A. Franceschini
+- D. Frayer
+- H. Fu
+- R. Gavazzi
+- J. Glenn
+- M. Griffin
+- M. A. Gurwell
+- M. Halpern
+- E. Ibar
+- R. J. Ivison
+- M. Jarvis
+- J. Kamenetzky
+- M. Krips
+- L. Levenson
+- R. Lupu
+- A. Mahabal
+- P. D. Maloney
+- C. Maraston
+- L. Marchetti
+- G. Marsden
+- H. Matsuhara
+- A. M. J. Mortier
+- E. Murphy
+- B. J. Naylor
+- R. Neri
+- H. T. Nguyen
+- S. J. Oliver
+- A. Omont
+- M. J. Page
+- A. Papageorgiou
+- C. P. Pearson
+- I. Pérez-Fournon
+- M. Pohlen
+- N. Rangwala
+- J. I. Rawlings
+- G. Raymond
+- D. Riechers
+- G. Rodighiero
+- I. G. Roseboom
+- M. Rowan-Robinson
+- B. Schulz
+- Douglas Scott
+- K. Scott
+- P. Serra
+- N. Seymour
+- D. L. Shupe
+- A. J. Smith
+- M. Symeonidis
+- K. E. Tugwell
+- M. Vaccari
+- E. Valiante
+- I. Valtchanov
+- A. Verma
+- M. P. Viero
+- L. Vigroux
+- L. Wang
+- D. Wiebe
+- G. Wright
+- C. K. Xu
+- G. Zeimann
+- M. Zemcov
+- J. Zmuidzinas
+abstract: "We report the discovery of a bright ($f(250mum) > 400$ mJy), multiply-lensed submillimeter galaxy obj in {it   Herschel}/SPIRE Science Demonstration Phase data from the HerMES project. Interferometric 880mum Submillimeter Array observations resolve at least four images with a large separation of $sim 9arcsec$. A high-resolution adaptive optics $K_p$ image with Keck/NIRC2 clearly shows strong lensing arcs. Follow-up spectroscopy gives a redshift of $z=2.9575$, and the lensing model gives a total magnification of $mu sim 11 pm 1$. The large image separation allows us to study the multi-wavelength spectral energy distribution (SED) of the lensed source unobscured by the central lensing mass. The far-IR/millimeter-wave SED is well described by a modified blackbody fit with an unusually warm dust temperature, $88 pm 3$ K. We derive a lensing-corrected total IR luminosity of $(1.43 pm 0.09) times 10^{13}, mathrm{L}_{odot}$, implying a star formation rate of $sim 2500, mathrm{M}_{odot}, mathrm{yr}^{-1}$. However, models primarily developed from brighter galaxies selected at longer wavelengths are a poor fit to the full optical-to-millimeter SED. A number of other strongly lensed systems have already been discovered in early {it Herschel} data, and many more are expected as additional data are collected."
+featured: true
+tags:
+math: true
+publication_types: ["2"]
+---
+http://arxiv.org/abs/1104.4113v1

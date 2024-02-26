@@ -1,0 +1,92 @@
+---
+title: "A very luminous jet from the disruption of a star by a massive black   hole"
+date: 2022-11-29T19:00:08Z
+authors:
+- Igor Andreoni
+- Michael W. Coughlin
+- Daniel A. Perley
+- Yuhan Yao
+- Wenbin Lu
+- S. Bradley Cenko
+- Harsh Kumar
+- Shreya Anand
+- Anna Y. Q. Ho
+- Mansi M. Kasliwal
+- Antonio de Ugarte Postigo
+- Ana Sagues-Carracedo
+- Steve Schulze
+- D. Alexander Kann
+- S. R. Kulkarni
+- Jesper Sollerman
+- Nial Tanvir
+- Armin Rest
+- Luca Izzo
+- Jean J. Somalwar
+- David L. Kaplan
+- Tomas Ahumada
+- G. C. Anupama
+- Katie Auchettl
+- Sudhanshu Barway
+- Eric C. Bellm
+- Varun Bhalerao
+- Joshua S. Bloom
+- Michael Bremer
+- Mattia Bulla
+- Eric Burns
+- Sergio Campana
+- Poonam Chandra
+- Panos Charalampopoulos
+- Jeff Cooke
+- Valerio D'Elia
+- Kaustav Kashyap Das
+- Dougal Dobie
+- José Feliciano Agüí Fernández
+- James Freeburn
+- Cristoffer Fremling
+- Suvi Gezari
+- Simon Goode
+- Matthew Graham
+- Erica Hammerstein
+- Viraj R. Karambelkar
+- Charles D. Kilpatrick
+- Erik C. Kool
+- Melanie Krips
+- Russ R. Laher
+- Giorgos Leloudas
+- Andrew Levan
+- Michael J. Lundquist
+- Ashish A. Mahabal
+- Michael S. Medford
+- M. Coleman Miller
+- Anais Möller
+- Kunal Mooley
+- A. J. Nayana
+- Guy Nir
+- Peter T. H. Pang
+- Emmy Paraskeva
+- Richard A. Perley
+- Glen Petitpas
+- Miika Pursiainen
+- Vikram Ravi
+- Ryan Ridden-Harper
+- Reed Riddle
+- Mickael Rigault
+- Antonio C. Rodriguez
+- Ben Rusholme
+- Yashvi Sharma
+- I. A. Smith
+- Robert D. Stein
+- Christina Thöne
+- Aaron Tohuvavohu
+- Frank Valdes
+- Jan van Roestel
+- Susanna D. Vergani
+- Qinan Wang
+- Jielai Zhang
+abstract: "Tidal disruption events (TDEs) are bursts of electromagnetic energy released when supermassive black holes (SMBHs) at the centers of galaxies violently disrupt a star that passes too close. TDEs provide a new window to study accretion onto SMBHs; in some rare cases, this accretion leads to launching of a relativistic jet, but the necessary conditions are not fully understood. The best studied jetted TDE to date is Swift J1644+57, which was discovered in gamma-rays, but was too obscured by dust to be seen at optical wavelengths. Here we report the optical discovery of AT2022cmc, a rapidly fading source at cosmological distance (redshift z=1.19325) whose unique lightcurve transitioned into a luminous plateau within days. Observations of a bright counterpart at other wavelengths, including X-rays, sub-millimeter, and radio, supports the interpretation of AT2022cmc as a jetted TDE containing a synchrotron  arcsecafterglow arcsec, likely launched by a SMBH with spin $a gtrsim 0.3$. Using 4 years of Zwicky Transient Facility (ZTF) survey data, we calculate a rate of $0.02 ^{+ 0.04 }_{- 0.01 }$ Gpc$^{-3}$ yr$^{-1}$ for on-axis jetted TDEs based on the luminous, fast-fading red component, thus providing a measurement complementary to the rates derived from X-ray and radio observations. Correcting for the beaming angle effects, this rate confirms that about 1% of TDEs have relativistic jets. Optical surveys can use AT2022cmc as a prototype to unveil a population of jetted TDEs."
+featured: true
+tags:
+math: true
+publication_types: ["2"]
+---
+http://arxiv.org/abs/2211.16530v1

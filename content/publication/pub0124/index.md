@@ -1,0 +1,24 @@
+---
+title: "Optimizing spectroscopic follow-up strategies for supernova photometric   classification with active learning"
+date: 2019-01-03T11:42:40Z
+authors:
+- E. E. O. Ishida
+- R. Beck
+- S. Gonzalez-Gaitan
+- R. S. de Souza
+- A. Krone-Martins
+- J. W. Barrett
+- N. Kennamer
+- R. Vilalta
+- J. M. Burgess
+- B. Quint
+- A. Z. Vitorelli
+- A. Mahabal
+- E. Gangler
+abstract: "We report a framework for spectroscopic follow-up design for optimizing supernova photometric classification. The strategy accounts for the unavoidable mismatch between spectroscopic and photometric samples, and can be used even in the beginning of a new survey -- without any initial training set. The framework falls under the umbrella of active learning (AL), a class of algorithms that aims to minimize labelling costs by identifying a few, carefully chosen, objects which have high potential in improving the classifier predictions. As a proof of concept, we use the simulated data released after the Supernova Photometric Classification Challenge (SNPCC) and a random forest classifier. Our results show that, using only 12% the number of training objects in the SNPCC spectroscopic sample, this approach is able to double purity results. Moreover, in order to take into account multiple spectroscopic observations in the same night, we propose a semi-supervised batch-mode AL algorithm which selects a set of $N=5$ most informative objects at each night. In comparison with the initial state using the traditional approach, our method achieves 2.3 times higher purity and comparable figure of merit results after only 180 days of observation, or 800 queries (73% of the SNPCC spectroscopic sample size). Such results were obtained using the same amount of spectroscopic time necessary to observe the original SNPCC spectroscopic sample, showing that this type of strategy is feasible with current available spectroscopic resources. The code used in this work is available in the COINtoolbox: https://github.com/COINtoolbox/ActSNClass ."
+featured: true
+tags:
+math: true
+publication_types: ["2"]
+---
+http://arxiv.org/abs/1804.03765v3
