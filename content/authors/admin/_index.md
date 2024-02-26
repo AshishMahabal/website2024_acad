@@ -20,12 +20,11 @@ superuser: true
 role: Astronomer and Data Scientist
 
 # Organizations/Affiliations
-#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations: 
-- name: Caltech, Pasadena, USA
-  url: https://www.caltech.edu
-- name: IUCAA, Pune, India
-  url = https://iucaa.in/en/
+  - name: Caltech Pasadena USA
+    url: https://www.caltech.edu
+  - name: IUCAA, Pune, India
+    url = https://iucaa.in/en/
 
 
 # Short bio (displayed in user profile at end of posts)
