@@ -17,7 +17,7 @@ last_name: Mahabal
 superuser: true
 
 # Role/position
-role = "Astronomer and Data Scientist"
+role: "Astronomer and Data Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
