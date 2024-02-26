@@ -21,29 +21,32 @@ role: "Astronomer and Data Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Caltech, Pasadena, USA", url = "" },
-{ name = "IUCAA, Pune, India", url = "" } ]
+organizations: 
+- name: Caltech, Pasadena, USA
+  url: https://www.caltech.edu
+- name: IUCAA, Pune, India
+  url = https://iucaa.in/en/
 
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests = [
-  "Astronomy",
-  "Data Science and Machine Learning",
-  "Methodology Transfer"
-]
+interests:
+  - Astronomy
+  - Data Science and Machine Learning
+  - Methodology Transfer
+
 
 
 # Education to show in About widget
 education:
   courses:
-  - course = "PhD in Astronomy"
-  institution = "IUCAA"
-  year = 1998
-  - course = "Masters in Physics, Mathematics, Electronics"
-  institution = "Nagpur University"
+  - course: PhD in Astronomy
+    institution: IUCAA
+    year: 1998
+  - course: Masters in Physics, Mathematics, Electronics
+    institution: Nagpur University
 #  year = 1992
 
 
