@@ -23,7 +23,7 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 40
-  - name: Perspnal
+  - name: Personal
     url: '#personal'
     weight: 50
   - name: Contact
