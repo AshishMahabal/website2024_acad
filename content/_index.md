@@ -175,8 +175,42 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Sky Survey
+          tag: Sky Survey
+        - name: Machine Learning
+          tag: Machine Learning
+        - name: Astronomy
+          tag: Astronomy
+        - name: Citizen Science
+          tag: Citizen Science
+        - name: Asteroids
+          tag: Asteroids
+        - name: Transients
+          tag: Transients
+        - name: Variables
+          tag: Variables
+        - name: Blazars
+          tag: Blazars
+        - name: CVs
+          tag: CVs
+        - name: Alerts
+          tag: Alerts
+        - name: Broker
+          tag: Broker
+        - name: Cancer
+          tag: Cancer
+        - name: Computing
+          tag: Computing
+        - name: Cyberinfrastructure
+          tag: Cyberinfrastructure
+        - name: Medical Data
+          tag: Medical Data
+        - name: Methodology Transfer
+          tag: Methodology Transfer
+        - name: Polarimetry
+          tag: Polarimetry
+
+
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -222,7 +256,7 @@ sections:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - event
+          - talk
     design:
       columns: '2'
       view: compact
@@ -231,6 +265,16 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
+  - block: collection
+    id: personal
+    content:
+      title: Personal Universe
+      filters:
+        folders:
+          - personal
+    design:
+      columns: '2'
+      view: compact
   - block: contact
     id: contact
     content:
