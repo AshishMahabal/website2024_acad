@@ -1,0 +1,159 @@
+TWENTY QUESTIONS           by Don Woods
+
+Instructions:
+- Answer all 20 questions (each with a letter from A to E).
+- Wherever a question refers to an answer or answers, it means
+  YOUR answers, not some hypothetical "best" or "right" answers.
+- Your score is the number of questions whose answers are correct.
+- Your goal is to achieve as high a score as possible.
+
+ 1. The first question whose answer is A is:
+    (A) 1
+    (B) 2
+    (C) 3
+    (D) 4
+    (E) 5
+
+ 2. The next question with the same answer as this one is:
+    (A) 4
+    (B) 6
+    (C) 8
+    (D) 10
+    (E) 12
+
+ 3. The only two consecutive questions with identical answers
+    are questions:
+    (A) 15 and 16
+    (B) 16 and 17
+    (C) 17 and 18
+    (D) 18 and 19
+    (E) 19 and 20
+
+ 4. The answer to this question is the same as the answers
+    to questions:
+    (A) 6 and 13
+    (B) 14 and 16
+    (C) 7 and 20
+    (D) 1 and 15
+    (E) 8 and 12
+
+ 5. The answer to question 14 is:
+    (A) B
+    (B) E
+    (C) C
+    (D) A
+    (E) D
+
+ 6. The answer to this question is:
+    (A) A
+    (B) B
+    (C) C
+    (D) D
+    (E) none of the above
+
+ 7. The answer that appears most often (possibly tied) is:
+    (A) A
+    (B) B
+    (C) C
+    (D) D
+    (E) E
+
+ 8. Ignoring those that occur equally often, the answer that
+    appears least often is:
+    (A) A
+    (B) B
+    (C) C
+    (D) D
+    (E) E
+
+ 9. The other questions with the same answer as this one, not counting
+    any whose answers are wrong, have numbers whose sum is in the range:
+    (A) 50 to 53, inclusive
+    (B) 43 to 46, inclusive
+    (C) 20 to 25, inclusive
+    (D) 53 to 58, inclusive
+    (E) 40 to 43, inclusive
+
+10. The answer to question 17 is:
+    (A) D
+    (B) B
+    (C) A
+    (D) E
+    (E) wrong
+
+11. The number of questions whose answer is D is:
+    (A) 2
+    (B) 3
+    (C) 4
+    (D) 5
+    (E) 6
+
+12. The number of OTHER questions with the same answer as this
+    one is the same as the number of questions with answer:
+    (A) B
+    (B) C
+    (C) D
+    (D) E
+    (E) none of the above
+
+13. The number of questions whose answer is E is:
+    (A) 5
+    (B) 4
+    (C) 3
+    (D) 2
+    (E) 1
+
+14. No one answer appears exactly:
+    (A) two times
+    (B) three times
+    (C) four times
+    (D) five times
+    (E) none of the above
+
+15. The only odd-numbered question with answer A is:
+    (A) 7
+    (B) 9
+    (C) 11
+    (D) 13
+    (E) 15
+
+16. The answer to question 8 is the same as the answer to
+    question:
+    (A) 3
+    (B) 6
+    (C) 13
+    (D) 18
+    (E) 20
+
+17. The answer to question 10 is:
+    (A) C
+    (B) D
+    (C) B
+    (D) A
+    (E) correct
+
+18. The number of prime-numbered questions whose answers
+    are vowels is:
+    (A) a prime number
+    (B) a square number
+    (C) an odd number
+    (D) an even number
+    (E) zero
+
+19. The last question whose answer is B is:
+    (A) 14
+    (B) 15
+    (C) 16
+    (D) 17
+    (E) 18
+
+20. The maximum score that can be achieved on this test is:
+    (A) 18
+    (B) 19
+    (C) 20
+    (D) indeterminate
+    (E) achievable only by getting this question wrong
+
+---------------------------------------------------------------
+(c) Copyright 2000,2001 by Donald R. Woods
+Permission to copy is granted provided this notice is retained.

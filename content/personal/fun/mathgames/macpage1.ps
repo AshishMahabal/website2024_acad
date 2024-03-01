@@ -1,0 +1,111 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 1 1 520 720
+%%% Ashish Mahabal aam@astro.caltech.edu 2002
+
+%/size { 150 } def
+/dir { 1 } def
+/a { red size 0 rlineto } def
+
+/b { 
+blue 
+size 4 div 0 rlineto 
+45 rotate size 4 2 sqrt mul div 0 rlineto 
+-90 rotate   size 2 2 sqrt mul div  0 rlineto 
+90 rotate   size 4 2 sqrt mul div  0 rlineto 
+-45 rotate   size 4 div 0 rlineto 
+} def
+
+/c { green
+size 4 div 0 rlineto 
+-45 rotate size 4 2 sqrt mul div 0 rlineto 
+90 rotate   size 2 2 sqrt mul div  0 rlineto 
+-90 rotate   size 4 2 sqrt mul div  0 rlineto 
+45 rotate   size 4 div 0 rlineto 
+} def
+
+/d { yellow
+15 rotate   size  3 sqrt  5.6 div mul 0 rlineto
+-37 rotate   size  3 sqrt  4 div mul 0 rlineto
+37 rotate  size 3 sqrt 5.6 div mul 0 rlineto 
+-15 rotate
+} def
+
+/mid { 150 rotate size 3 sqrt 3 div mul 0 rlineto 
+60 rotate size 3 sqrt 3 div mul 0 rlineto 150 rotate } def
+%/a2 { a mid a } def
+%/b2 { b mid b } def
+%/c2 { c mid c } def
+%/d2 { d mid d } def
+/red { 1 0 0 setrgbcolor } def
+/blue { 0 0 1 setrgbcolor } def
+/green { 0 1 0 setrgbcolor } def
+/black { 1 1 1 setrgbcolor } def
+/yellow { 1 1 0 setrgbcolor } def
+
+%/x { 150 } def
+%/y {  40 } def
+%/side1 { c2 } def
+%/side2 { d2 } def
+%/side3 { b2 } def
+/triangle {
+gsave  x y translate newpath 0 0 moveto 
+0 rotate side1 fill grestore 
+gsave x y translate newpath size 0 moveto 
+120 rotate side2 fill grestore
+gsave x y translate newpath size 2 div size 3 sqrt 2 div mul  moveto 
+240 rotate side3 fill grestore
+gsave  x y translate newpath 0 0 moveto 
+30 rotate black size 3 sqrt div 0 rlineto stroke grestore 
+gsave x y translate newpath size 0 moveto 
+150 rotate black size 3 sqrt div 0 rlineto stroke grestore 
+gsave x y translate newpath size 2 div size 3 sqrt 2 div mul  moveto 
+270 rotate black size 3 sqrt div 0 rlineto stroke grestore 
+} def
+%/triangle {
+%gsave 2 x mul y 3 mul translate newpath 0 0 moveto 
+%0 rotate side1 fill grestore 
+%gsave 2 x mul y 3 mul translate newpath size 0 moveto 
+%120 rotate side2 fill grestore
+%gsave 2 x mul y 3 mul translate newpath size 2 div size 3 sqrt 2 div mul  moveto 
+%240 rotate side3 fill grestore
+%} def
+%triangle
+%showpage
+/size { 150 } def
+/x { 30 } def /y { 40 } def
+/side1 { a mid } def /side2 { b mid } def/side3 { c mid } def
+triangle
+/x { 190 } def /y { 40 } def
+/side1 { b mid } def /side2 { b mid } def/side3 { c mid } def
+triangle
+/x { 350 } def /y { 40 } def
+/side1 { c mid } def /side2 { b mid } def/side3 { c mid } def
+triangle
+/x { 30 } def /y { 210 } def
+/side1 { d mid } def /side2 { b mid } def/side3 { c mid } def
+triangle
+/x { 190 } def /y { 210 } def
+/side1 { a mid } def /side2 { a mid } def/side3 { c mid } def
+triangle
+/x { 350 } def /y { 210 } def
+/side1 { b mid } def /side2 { a mid } def/side3 { c mid } def
+triangle
+/x { 30 } def /y { 380 } def
+/side1 { d mid } def /side2 { d mid } def/side3 { c mid } def
+triangle
+/x { 190 } def /y { 380 } def
+/side1 { b mid } def /side2 { d mid } def/side3 { c mid } def
+triangle
+/x { 350 } def /y { 380 } def
+/side1 { c mid } def /side2 { c mid } def/side3 { c mid } def
+triangle
+/x { 30 } def /y { 550 } def
+/side1 { a mid } def /side2 { c mid } def/side3 { c mid } def
+triangle
+/x { 190 } def /y { 550 } def
+/side1 { d mid } def /side2 { c mid } def/side3 { c mid } def
+triangle
+/x { 350 } def /y { 550 } def
+/side1 { d mid } def /side2 { a mid } def/side3 { c mid } def
+triangle
+showpage

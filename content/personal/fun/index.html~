@@ -1,0 +1,79 @@
+<HTML>
+<HEAD>
+<LINK REL=StyleSheet HREF="http://www.astro.caltech.edu/~aam/css/style.css"
+TYPE="text/css" MEDIA=screen>
+<TITLE>FUNeral is REAL fun!</TITLE>
+<META name="description" content="fun and recreational stuff">
+<META name="keywords" content="fun, laugh, recreation, math, tricks, puzzles, magic, limerick, joke, games, ashish, mahabal, ashish mahabal, lewis caroll, jabberwocky, marathi">
+</HEAD>
+<BODY>
+<P CLASS=top>
+<IMG SRC="http://www.astro.caltech.edu/~aam/images/name.jpg" align=left height=40>
+<IMG SRC="http://www.astro.caltech.edu/~aam/images/logo.jpg" align=right height=40>
+<BR>
+<HR>
+</P>
+<CENTER><H2>FunStuff</H2></CENTER>
+<P>
+<!--
+Some images picked up from <A HREF="arbit.html">here and there</A>.
+<P>
+-->
+<A HREF=jammat.html>jammat - a game of our inventing</A>.<BR>
+<A HREF=jaabarawokaa.gif>Marathi translation of Lewis Caroll's "Jabberwocky"</A>.<BR>
+<A HREF=egames/soma/index.html>Some solutions to soma cube</A><BR>
+<A HREF="http://www.cs.uidaho.edu/~casey931/puzzle/insane/insane.html">Instant insanity</A><FONT SIZE=+4></FONT>
+<P>
+<A HREF="set.html">Game of SET</A><FONT SIZE=+4></FONT>
+<P>
+<A HREF="plangs.html">Languages that are fun</A><FONT SIZE=+4></FONT>
+<P>
+<A HREF="recmath.html">Recreational maths</A> (links).<P>
+A taste of <A HREF="../chess/rschessmain.html">chess puzzlers from
+Reymond Smullyan</A> to test your logic skills.
+<P>
+<A HREF="Puzzles.html">puzzles to solve</A>.
+<P>
+<A HREF="games.html">computer games that are fun</A>.
+<P>
+A few <A HREF="http://www.prl.ernet.in/user-bin/aam/lime.cgi">limericks</A>.
+<P>
+<A HREF="laughs.html">A few laughs</A>.
+<P>
+<A HREF="ga.html">Genetic algorithms</A>.
+<P>
+<A HREF="sigrand.html">Using random signatures</A> in your mail session.
+<P>
+<A HREF="mathgames.html">Links to a few mathematical games</A>
+<P>
+More stuff promised.
+<P CLASS=bottomline>
+<TABLE CLASS=snug WIDTH=100% CELLBORDER=0 CELLSPACING=0>
+<TR>
+<TD WIDTH=20%>
+<A HREF="http://www.astro.caltech.edu/~aam/science/research.html">Science</A>
+</TD>
+<TD WIDTH=20%>
+<A HREF="http://www.astro.caltech.edu/~aam/fun/fun.html">Fun</A>
+</TD>
+<TD WIDTH=20%>
+<A HREF="http://www.astro.caltech.edu/~aam/philosophy/philosophy.html">Philosophy</A>
+</TD>
+<TD WIDTH=20%>
+<A HREF="http://www.astro.caltech.edu/~aam/personal/personal.html">Personal</A>
+</TD>
+<TD WIDTH=20%>
+<A HREF="http://www.astro.caltech.edu/~aam/miscellaneous/miscellaneous.html">Miscellaneous</A>
+</TD>
+</TR>
+</TABLE>
+</P>
+<H6 CLASS=email><A HREF="mailto::aam@astro.caltech.edu">Ashish Mahabal</A>
+<BR>
+Last Outdated: Nov 9 2001
+</H6>
+<CENTER><H7 CLASS=absbottom>
+http://www.astro.caltech.edu/~aam/fun/fun.html
+</H7></CENTER>
+</BODY>
+</HTML>
