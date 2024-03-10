@@ -1,0 +1,34 @@
+36 and 27
+------------
+(1) 1 2 3 4 5 ...
+(2) 1 2 4 8 16 ...
+(3) 1 3 9 27
+(4) sum of no 2 pairs should be the same
+(5) ?
+---------
+squares
+---------
+4!!!!
+---------
+chess
+---------
+(1) if 1 is 0, no one can be n-1 
+if no one is 0, there are n between 1 and n-1
+(2) burn 1 on both sides and 2nd on one side.
+Then burn remaining of 2nd on both sides
+(3) Yes. 8 appears more frequently
+----------------
+About 5:
+Step 1: 3 + 3 
+Possibility 1.1: they are equal => 1 of other 6 is bad
+	Step 2: 2 + 2
+	Possibility 2.1: they are equal => 1 of remainng 2 is bad
+		Step 3: Compare one of those 2 with a good one
+			If its heavy
+		it tells you its bad and also if its light/heavy
+		If equal: step 3
+			do same for 12.
+
+Possibility 2: They are unequal: one of 1-5 is light OR one of 6-10 heavy.
+	Step 2: put 1,2,3,6,7`
+

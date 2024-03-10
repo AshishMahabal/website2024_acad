@@ -1,0 +1,64 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 1 1 520 520
+%%% Ashish Mahabal aam@astro.caltech.edu 2002
+
+/size { 120 } def
+/dir { 1 } def
+/a { newpath 0 0 moveto size 0 rlineto stroke } def
+
+/b { newpath  0 0 moveto
+size 4 div 0 rlineto 
+45 rotate size 4 2 sqrt mul div 0 rlineto 
+-90 rotate   size 2 2 sqrt mul div  0 rlineto 
+90 rotate   size 4 2 sqrt mul div  0 rlineto 
+-45 rotate   size 4 div 0 rlineto stroke
+} def
+
+/c {newpath  0 0 moveto
+size 4 div 0 rlineto 
+-45 rotate size 4 2 sqrt mul div 0 rlineto 
+90 rotate   size 2 2 sqrt mul div  0 rlineto 
+-90 rotate   size 4 2 sqrt mul div  0 rlineto 
+45 rotate   size 4 div 0 rlineto stroke
+} def
+
+/d {newpath  0 0 moveto
+15 rotate   size  3 sqrt  5.6 div mul 0 rlineto
+-37 rotate   size  3 sqrt  4 div mul 0 rlineto
+37 rotate  size 3 sqrt 5.6 div mul 0 rlineto stroke
+-15 rotate
+} def
+
+/v1 { grestore gsave x y translate } def
+/v2 { grestore gsave x size add dir y mul  translate dir 120 mul rotate } def
+/v3 { grestore gsave x size 2 div add size 1.1547  div dir y mul  add translate dir 240 mul rotate } def
+
+/y {  40 } def
+/x { 150 size sub } def                 gsave v2 a grestore
+/x { 150 } def                 gsave v1 a v2 b v3 c grestore
+/x { 150 size add } def        gsave v1 a v2 b v3 d grestore
+/x {  30 2 size mul add size add } def  gsave v3 a grestore
+/y {  40 1.5 3 sqrt div size mul add } def
+/x {  90 size sub } def                 gsave v2 a grestore
+/x {  90 0 size mul add } def  gsave v1 c v2 c v3 d grestore
+/x {  90 1 size mul add } def  gsave v1 c v2 c v3 c grestore
+/x {  90 2 size mul add } def  gsave v1 b v2 b v3 d grestore
+/x {  30 3 size mul add size 2 div add } def  gsave v3 a grestore
+/y {  40 3.0 3 sqrt div size mul add } def
+/x {  30 } def                 gsave v1 d v2 b v3 a grestore
+/x {  30 size add } def        gsave v1 b v2 c v3 b grestore
+/x {  30 2 size mul add } def  gsave v1 b v2 d v3 d grestore
+/x {  30 3 size mul add } def  gsave v1 c v2 a v3 d grestore
+/y {  40 4.5 3 sqrt div size mul add } def
+/x {  90 0 size mul add } def  gsave v1 b v2 a v3 a grestore
+/x {  90 1 size mul add } def  gsave v1 d v2 a v3 a grestore
+/x {  90 2 size mul add } def  gsave v1 d v2 a v3 c grestore
+/y {  40 6 3 sqrt div size mul add } def
+/x {  30 1 size mul add } def  gsave v1 a grestore
+/x {  30 2 size mul add } def  gsave v1 a grestore
+
+/dir { -1 } def
+/y { 600 } def
+/x { 200 } def               % gsave v1 a v2 b v3 c grestore
+
+showpage
